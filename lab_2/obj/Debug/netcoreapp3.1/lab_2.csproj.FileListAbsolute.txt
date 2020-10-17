@@ -1,0 +1,26 @@
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.exe
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.deps.json
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.json
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.dev.json
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.dll
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.pdb
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csprojAssemblyReference.cache
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csproj.CoreCompileInputs.cache
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfoInputs.cache
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfo.cs
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.dll
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.pdb
+F:\БГТУ\2 Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.genruntimeconfig.cache
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.exe
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.deps.json
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.json
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.dev.json
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.dll
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.pdb
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csprojAssemblyReference.cache
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfoInputs.cache
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfo.cs
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csproj.CoreCompileInputs.cache
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.dll
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.pdb
+F:\БГТУ\2_Курс\ООТПиСП\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.genruntimeconfig.cache
